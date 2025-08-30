@@ -10,7 +10,7 @@
 - You may see commits. You may see repos.  
 - But you will never see *me*.  
 
-![Hacker GIF](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
+![Hacker GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXA3YjBrYWJuYmR3djY4ZmYwN24ydndsdHJjdG1sc2dnNXhlYmJidSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gbSk5dMWmDfqg/giphy.gif)
 
 ---
 
@@ -31,7 +31,7 @@
 ---
 
 ### 📊 The Ghost’s Trail
-![Mr.Ghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGhost&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000)
+![Mr.Ghost's GitHub stats](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVnbzAxcG5qcnBpYTkwNXo2MGE4dXV4dGdneHd4bXQzZG0zZTVyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PSBsUwcZmQ9UI/giphy.gif))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGhost&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000)
 

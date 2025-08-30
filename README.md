@@ -4,6 +4,7 @@
 > Some things are meant to stay in the dark." – Mr.Ghost
 
 ---
+[octacat](https://octodex.github.com/images/grim-repo.jpg)
 
 ### 👤 Who am I?
 - Just a **ghost in the machine**... wandering through lines of code.  

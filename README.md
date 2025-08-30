@@ -26,12 +26,12 @@
 - 🕷️ I don’t debug — I let the bugs live... they whisper secrets.  
 - 🔪 Perfection is boring. Chaos is art.  
 
-![Glitch GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Glitch GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVwMm40MmV4aWhzazFpNW16eGRzYWEyanI1MTl1ZWdseTR5cGh4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D0iSw7Imc7KnYkc4I5/giphy.gif)
 
 ---
 
 ### 📊 The Ghost’s Trail
-![Mr.Ghost's GitHub stats](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVnbzAxcG5qcnBpYTkwNXo2MGE4dXV4dGdneHd4bXQzZG0zZTVyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PSBsUwcZmQ9UI/giphy.gif))
+![Mr.Ghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGhost&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGhost&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000)
 
@@ -41,4 +41,4 @@
 > The repo you clone may not be the repo I pushed.  
 > Beware of shadows between the commits...
 
-![Matrix GIF](https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif)
+![Matrix GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVnbzAxcG5qcnBpYTkwNXo2MGE4dXV4dGdneHd4bXQzZG0zZTVyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PSBsUwcZmQ9UI/giphy.gif)

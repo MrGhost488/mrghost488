@@ -4,7 +4,9 @@
 > Some things are meant to stay in the dark." – Mr.Ghost
 
 ---
-[octacat](https://octodex.github.com/images/grim-repo.jpg)
+![octacat](https://octodex.github.com/images/grim-repo.jpg)
+
+
 
 ### 👤 Who am I?
 - Just a **ghost in the machine**... wandering through lines of code.  
@@ -27,7 +29,7 @@
 - 🕷️ I don’t debug — I let the bugs live... they whisper secrets.  
 - 🔪 Perfection is boring. Chaos is art.  
 
-![Glitch GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVwMm40MmV4aWhzazFpNW16eGRzYWEyanI1MTl1ZWdseTR5cGh4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D0iSw7Imc7KnYkc4I5/giphy.gif)
+![Glitch GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDNpZDRnbzA5cDZ5emtpa2locWVzcTZsbzExZ3owMnhseHB2dzV3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc12wLhFdtdlCJxe/giphy.gif)
 
 ---
 
